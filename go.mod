@@ -9,7 +9,7 @@ require (
 	github.com/flant/shell-operator v1.0.9-0.20220302082030-614d4cca72da
 	github.com/go-chi/chi v4.0.3+incompatible
 	github.com/go-openapi/spec v0.19.8
-	github.com/go-openapi/strfmt v0.19.5
+	github.com/go-openapi/strfmt v0.21.2
 	github.com/go-openapi/swag v0.19.9
 	github.com/go-openapi/validate v0.19.12
 	github.com/hashicorp/go-multierror v1.1.1
