@@ -14,7 +14,7 @@ require (
 	github.com/go-openapi/validate v0.19.12
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/kennygrant/sanitize v1.2.4
-	github.com/onsi/gomega v1.17.0
+	github.com/onsi/gomega v1.23.0
 	github.com/peterbourgon/mergemap v0.0.0-20130613134717-e21c03b7a721
 	github.com/prometheus/client_golang v1.11.0
 	github.com/segmentio/go-camelcase v0.0.0-20160726192923-7085f1e3c734
@@ -25,7 +25,7 @@ require (
 	go.uber.org/goleak v1.1.12
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
 	gopkg.in/satori/go.uuid.v1 v1.2.0
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
+	gopkg.in/yaml.v3 v3.0.1
 	helm.sh/helm/v3 v3.5.1
 	k8s.io/api v0.20.5
 	k8s.io/apimachinery v0.20.5
